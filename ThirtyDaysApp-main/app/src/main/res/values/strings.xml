@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ThirtyDaysApp</string>
+
+    <string name="day_1_title">Get A Little Cardio In</string>
+    <string name="day_1_desc">Strengthen your heart, lower blood pressure, improve your sleep quality,
+        and so much more with regular cardiovascular exercise.</string>
+
+    <string name="day_2_title">Eat A Plant-Based Diet Whenever Possible</string>
+    <string name="day_2_desc">More and more, doctors are recommending plant-based diets to all of their patients,
+        not just those with high blood pressure, diabetes, and heart disease.</string>
+
+    <string name="day_3_title">Reduce Or Eliminate Alcohol Consumption</string>
+    <string name="day_3_desc">Whether you are wanting to redefine your relationship with alcohol, are looking for help quitting,
+        or trying to drink more mindfully, cutting back is almost always a good idea.</string>
+
+    <string name="day_4_title">Ride Your Bike To The Store</string>
+    <string name="day_4_desc">Ditch the car and hop on your bike for some chill cardio.
+        Even just 30 minutes on a bike can help build endurance and strengthen your heart. </string>
+
+    <string name="day_5_title">Get A Little Cardio In</string>
+    <string name="day_5_desc">Strengthen your heart, lower blood pressure, improve your sleep quality,
+        and so much more with regular cardiovascular exercise.</string>
+
+    <string name="day_6_title">Get Enough Sleep</string>
+    <string name="day_6_desc">Prioritizing sleep is an absolute must.</string>
+
+    <string name="app_name_desc">30 Days of Wellness</string>
+</resources>
